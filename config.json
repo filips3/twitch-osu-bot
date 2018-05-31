@@ -1,0 +1,16 @@
+{
+	"osu":{
+		"server":"irc.ppy.sh",
+		"port":6667,
+		"user":"",
+		"pass":"",
+		"apikey":""
+	},
+	"twitch":{
+		"server":"irc.chat.twitch.tv",
+		"port":6667,
+		"user":"",
+		"pass":"",
+		"prefix":"!"
+	}
+}
