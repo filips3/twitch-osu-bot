@@ -1,6 +1,6 @@
-# Discord bot
+# Twitch-osu! bot
 
-Bot connecting twitch chat with your osu account created using [node.js](https://nodejs.org/), [request](https://github.com/request/request) and slightly modified [node-irc](https://github.com/martynsmith/node-irc)
+Bot connecting twitch chat with your osu! account created using [node.js](https://nodejs.org/), [request](https://github.com/request/request) and slightly modified [node-irc](https://github.com/martynsmith/node-irc)
 
 ## Getting Started
 
